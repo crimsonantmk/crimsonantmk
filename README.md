@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crimsonantmk
+- 👋 Hi, I’m @crimsonantmk Antony M.
 - 👀 I’m interested in developing my software engineering skills
 - 🌱 I’m currently learning alx
 - 💞️ I’m looking to collaborate on future alx projects 
